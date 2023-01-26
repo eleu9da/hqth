@@ -1,5 +1,5 @@
 #
-# Query the QRZ Database server for a callsign
+# Query the HAMQTH Database server for a callsign
 #
 # from an idea by Steve Franke K9AN and information from Angel EA7WA
 #
